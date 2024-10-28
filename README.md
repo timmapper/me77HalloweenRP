@@ -7,7 +7,7 @@
 
 ## Overview
   * Fall-colored leaves and grass ✅
-  * Mobs' textures(Zombie, Skeleton, Creeper, Illager)
+  * Mobs' textures(Zombie, Skeleton, Creeper, Illager) ✅
   * Class of Skeleton's textures(Bow, Shield, Chestplate and Leggins) ✅
   * Class of Witch's textures
   * Class of Vampire's textures

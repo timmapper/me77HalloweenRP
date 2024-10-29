@@ -44,6 +44,22 @@
     <td style="color=#00bebe">Skeleton Leggings</td>
     <td>/give @p minecraft:netherite_leggings[lore=["'Skeleton Leggings'"]] 1</td>
    </tr>
+   <tr>
+    <td style="color=#00bebe">Witch Staff</td>
+    <td>/give @p minecraft:netherite_sword[lore=["'Witch Staff'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">Witch Potion</td>
+    <td>/give @p minecraft:potion[potion_contents={potion:"minecraft:OPTIONAL"},lore=['"Witch Potion"']] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">Witch Hat</td>
+    <td>/give @p minecraft:carved_pumpkin[lore=["'Witch Hat'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">Witch Amulet</td>
+    <td>/give @p minecraft:netherite_chestplate[lore=["'Witch Amulet'"]] 1</td>
+   </tr>
   </tbody>
  </table>
 

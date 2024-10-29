@@ -9,7 +9,7 @@
   * Fall-colored leaves and grass ✅
   * Mobs' textures(Zombie, Skeleton, Creeper, Illager) ✅
   * Class of Skeleton's textures(Bow, Shield, Chestplate and Leggins) ✅
-  * Class of Witch's textures
+  * Class of Witch's textures(Staff, Potion, Hat and Amulet)
   * Class of Vampire's textures
 
 ## Requirements
@@ -38,15 +38,15 @@
    </tr>
    <tr>
     <td style="color=#00bebe">🔵Skeleton Chestplate</td>
-    <td>/give @p minecraft:netherite_chestplate[lore=["'Skeleton Chestplate'"]] 1</td>
+    <td>/give @p minecraft:chainmail_chestplate[lore=["'Skeleton Chestplate'"]] 1</td>
    </tr>
    <tr>
     <td style="color=#00bebe">🔵Skeleton Leggings</td>
-    <td>/give @p minecraft:netherite_leggings[lore=["'Skeleton Leggings'"]] 1</td>
+    <td>/give @p minecraft:chainmail_leggings[lore=["'Skeleton Leggings'"]] 1</td>
    </tr>
    <tr>
     <td style="color=#00bebe">🟣Witch Staff</td>
-    <td>/give @p minecraft:netherite_sword[lore=["'Witch Staff'"]] 1</td>
+    <td>/give @p minecraft:stick[lore=["'Witch Staff'"]] 1</td>
    </tr>
    <tr>
     <td style="color=#00bebe">🟣Witch Potion</td>
@@ -58,7 +58,7 @@
    </tr>
    <tr>
     <td style="color=#00bebe">🟣Witch Amulet</td>
-    <td>/give @p minecraft:netherite_chestplate[lore=["'Witch Amulet'"]] 1</td>
+    <td>/give @p minecraft:chainmail_chestplate[lore=["'Witch Amulet'"]] 1</td>
    </tr>
   </tbody>
  </table>

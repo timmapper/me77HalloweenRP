@@ -20,4 +20,19 @@
   The textures which requires CIT are using nbt.display.Lore.0
   You can check Lores all of items in repository
 
+  <table>
+   <thead>
+    <tr>
+     <th>Item</th>
+     <th>Command</th>
+    </tr>
+   </thead>
+  <tbody>
+   <tr>
+    <td>Skeleton Bow</td>
+    <td>/give @p minecraft:bow[lore=["'Skeleton Bow'"]] 1</td>
+   </tr>
+  </tbody>
+ </table>
+
 

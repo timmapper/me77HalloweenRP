@@ -32,6 +32,18 @@
     <td style="color=#00bebe">Skeleton Bow</td>
     <td>/give @p minecraft:bow[lore=["'Skeleton Bow'"]] 1</td>
    </tr>
+   <tr>
+    <td style="color=#00bebe">Skeleton Shield</td>
+    <td>/give @p minecraft:shield[lore=["'Skeleton Shield'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">Skeleton Chestplate</td>
+    <td>/give @p minecraft:netherite_chestplate[lore=["'Skeleton Chestplate'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">Skeleton Leggings</td>
+    <td>/give @p minecraft:netherite_leggings[lore=["'Skeleton Leggings'"]] 1</td>
+   </tr>
   </tbody>
  </table>
 

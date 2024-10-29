@@ -17,8 +17,8 @@
   * RP Renames(optional)
 
 ## How to Use
-  The textures which requires CIT are using nbt.display.Lore.0
-  You can check Lores all of items in repository
+  The textures which require CIT are using nbt.display.Lore.0
+  You can check Lores all of items in the table
 
   <table>
    <thead>

@@ -29,7 +29,7 @@
    </thead>
   <tbody>
    <tr>
-    <td style="color=aqua">Skeleton Bow</td>
+    <td style="color=#00bebe">Skeleton Bow</td>
     <td>/give @p minecraft:bow[lore=["'Skeleton Bow'"]] 1</td>
    </tr>
   </tbody>

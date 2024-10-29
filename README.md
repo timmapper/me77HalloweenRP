@@ -9,7 +9,7 @@
   * Fall-colored leaves and grass ✅
   * Mobs' textures(Zombie, Skeleton, Creeper, Illager) ✅
   * Class of Skeleton's textures(Bow, Shield, Chestplate and Leggins) ✅
-  * Class of Witch's textures(Staff, Potion, Hat and Amulet)
+  * Class of Witch's textures(Staff, Potion, Hat and Amulet) ✅
   * Class of Vampire's textures
 
 ## Requirements

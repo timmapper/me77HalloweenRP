@@ -10,7 +10,7 @@
   * Mobs' textures(Zombie, Skeleton, Creeper, Illager) ✅
   * Class of Skeleton's textures(Bow, Shield, Chestplate and Leggins) ✅
   * Class of Witch's textures(Staff, Potion, Hat and Amulet) ✅
-  * Class of Vampire's textures
+  * Class of Vampire's textures(Knife, Ring of Night Vision, Fangs and Coat) ✅
 
 ## Requirements
   * CIT Resewn
@@ -59,6 +59,22 @@
    <tr>
     <td style="color=#00bebe">🟣Witch Amulet</td>
     <td>/give @p minecraft:chainmail_chestplate[lore=["'Witch Amulet'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">🔴Vampire Knife</td>
+    <td>/give @p minecraft:iron_sword[lore=["'Vampire Knife'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">🔴Vampire Ring</td>
+    <td>/give @p minecraft:totem_of_undying[lore=["'Vampire Ring'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">🔴Vampire Fangs</td>
+    <td>/give @p minecraft:carved_pumpkin[lore=["'Vampire Fangs'"]] 1</td>
+   </tr>
+   <tr>
+    <td style="color=#00bebe">🔴Vampire Coat</td>
+    <td>/give @p minecraft:elytra[lore=["'Vampire Coat'"]] 1</td>
    </tr>
   </tbody>
  </table>
